@@ -1,10 +1,10 @@
 # Stock data reader
 
-[![Version](https://img.shields.io/badge/version-1.0-orange)]
-[![license](https://img.shields.io/github/license/papatekken/stockReader)]
-[![Python](https://img.shields.io/badge/Python-3.7.0-blue)]
-[![yfinance](https://img.shields.io/badge/yfinance-0.1.54-blue)]
-[![openpyxl](https://img.shields.io/badge/openpyxl-4.16.1-blue)]
+![Version](https://img.shields.io/badge/version-1.0-orange)
+![license](https://img.shields.io/github/license/papatekken/stockReader)
+![Python](https://img.shields.io/badge/Python-3.7.0-blue)
+![yfinance](https://img.shields.io/badge/yfinance-0.1.54-blue)
+![openpyxl](https://img.shields.io/badge/openpyxl-4.16.1-blue)
 
 
 A Stock data reader which get stock data online and write into the Excel workbook. It was developed in Python, by using the library [openpyxl] and [yfinance]
