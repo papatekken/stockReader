@@ -1,6 +1,6 @@
 # Stock data reader
 
-[![Version](https://img.shields.io/github/version-1.0-orange)]
+[![Version](https://img.shields.io/badge/version-1.0-orange)]
 [![license](https://img.shields.io/github/license/papatekken/stockReader)]
 [![Python](https://img.shields.io/badge/Python-3.7.0-blue)]
 [![yfinance](https://img.shields.io/badge/yfinance-0.1.54-blue)]
